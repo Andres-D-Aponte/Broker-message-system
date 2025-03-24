@@ -2,8 +2,8 @@
 
 ## 📋 Información del Proyecto
 
-**Desarrollador:** [Tu Nombre]  
-**Fecha:** [Fecha de Entrega]  
+**Desarrollador:** Andrés Aponte, Santiago Jaimes 
+**Fecha:** 24/03/2025
 **Versión:** 1.0.0  
 **Estado:** Producción
 
